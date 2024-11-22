@@ -18,4 +18,4 @@ use a hash function
 
 index of cache = block num % cache size
 
-![image-20241122013553519](E:\cse351\ComputerSystemNotes\1)
+![image-20241122013553519](.\1)
